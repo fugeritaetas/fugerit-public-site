@@ -10,4 +10,4 @@ Some tools and utilies are included in this projects.
  Here is a list of useful resources if you find the project interesting : 
 
 * [Fugerit Java Core Library Snapshot](/java/core/snapshot/) - A nightly snapshot build of the project.  
-
+* [Javadoc (Development)](java/core/snapshot/apidocs)- Snapshot version of the javadoc api documentation
